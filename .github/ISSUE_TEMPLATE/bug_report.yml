@@ -9,7 +9,8 @@ body:
       Thank you for reporting an issue :pray:
 
       This issue tracker is for reporting reproducible bugs or regression's found in React (https://github.com/facebook/react)
-      This issue tracker is not for support questions. Please refer to the React community's help and discussion forums: https://reactjs.org/community/support.html
+      This issue tracker is not for support questions. Please refer to the React community's help and discussion forums: 
+      - https://reactjs.org/community/support.html
 
       Before submitting a new bug/issue, please check the links below to see if there is a solution or question posted there already:
         - React's Issue's tab: https://github.com/facebook/react/issues?q=is%3Aissue+is%3Aopen+sort%3Aupdated-desc
