@@ -67,12 +67,12 @@ body:
   id: screenshots_or_videos
   attributes:
     label: Screenshots or Videos
-    description: If applicable, add screenshots or a video to help explain your problem.
-    placeholder: |
-      You can drag your video or image files inside of this editor ↓:
-
+    description: |
+      If applicable, add screenshots or a video to help explain your problem.
       For more information on the supported file image/file types and the file size limits, please refer
       to the following link: https://docs.github.com/en/github/writing-on-github/working-with-advanced-formatting/attaching-files
+    placeholder: |
+      You can drag your video or image files inside of this editor ↓:
 - type: textarea
   id: platform
   attributes:
